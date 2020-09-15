@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My names Jordan
+I am a computer science student at WSU, and I enjoy working with gameservers.
+⚡ Fun fact: I am currently creating a game-independent server library
 
 <!--
 **jordanzyx/jordanzyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
