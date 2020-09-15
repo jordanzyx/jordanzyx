@@ -1,5 +1,6 @@
 ### Hi there 👋 My names Jordan
 I am a computer science student at WSU, and I enjoy working with gameservers.
+
 ⚡ Fun fact: I am currently creating a game-independent server library
 
 <!--
