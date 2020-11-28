@@ -1,8 +1,9 @@
 ### Hi there 👋 My names Jordan
-I am a computer science student at WSU, and I enjoy working with gameservers.
+That thang? Yeah that thang do be thangin doe.
 
-⚡ Fun fact: I am currently creating a game-independent server library
+I hope you enjoy bad humor and bad code because that's what you will find across my repositories.
 
+- ⚡ Fun fact: I heard github is the new tinder. hmu on snapchat @m.jordan31
 <!--
 **jordanzyx/jordanzyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
