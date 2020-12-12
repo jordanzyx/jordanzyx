@@ -1,7 +1,7 @@
 ### Hi there 👋 My names Jordan
 That thang? Yeah that thang do be thangin doe.
 
-I hope you enjoy bad humor and bad code because that's what you will find across my repositories.
+Slow and unsteady
 
 - ⚡ Fun fact: I heard github is the new tinder. hmu on snapchat @m.jordan31
 <!--
