@@ -3,7 +3,7 @@ That thang? Yeah that thang do be thangin doe.
 
 Slow and unsteady
 
-- ⚡ Fun fact: I heard github is the new tinder. hmu on snapchat @m.jordan31
+- ⚡ Fun fact: I can bench 225
 <!--
 **jordanzyx/jordanzyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
