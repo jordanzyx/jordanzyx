@@ -4,6 +4,12 @@ That thang? Yeah that thang do be thangin doe.
 Slow and unsteady
 
 - ⚡ Fun fact: I can bench 225
+
+<details>
+  <summary>:zap: Github Stats </summary>
+  
+  <img align="left" alt="jordanzyx Github Stats" src="https://github-readme-stats-nine-roan.vercel.app/api?username=jordanzyx&show_icons=true&hide_border=true" />
+</details>  
 <!--
 **jordanzyx/jordanzyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
