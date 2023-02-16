@@ -1,9 +1,7 @@
 ### Hi there 👋 My names Jordan
-That thang? Yeah that thang do be thangin doe.
+Welcome to my Github Profile.
 
-Slow and unsteady
-
-- ⚡ Fun fact: I can bench 225
+Check out my repositories!
 
 <details>
   <summary>:zap: Github Stats </summary>
